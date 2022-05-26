@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @performance13
 - 👀 I’m interested in programming and networking technologies
-- 🌱 I’m currently studying at GoIT
+- 🌱 I’m currently studying
 - 💞️ I’m looking to collaborate on on an interesting project
 - 📫 How to reach me: write me
 
